@@ -29,10 +29,10 @@ a bulleted list.
 * third
 
 a numbered list.
-1.
+1. 一
     -第一个元素
     -第二个元素
-2. 
+2. 二
     -第一个元素
     -第二个元素
 
